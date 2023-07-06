@@ -1,0 +1,1 @@
+{"version":3,"file":"hooks.d.ts","sourceRoot":"","sources":["../../../src/etc/hooks.tsx"],"names":[],"mappings":"AAAA;;;;GAIG;AAGH,OAAO,EAAE,WAAW,EAAO,MAAM,SAAS,CAAC;AAC3C,OAAO,EAAE,aAAa,EAAE,MAAM,UAAU,CAAC;AAEzC;;;GAGG;AACH,wBAAgB,cAAc,CAAC,GAAG,EAAE,WAAW,QAS9C;AAUD;;;;GAIG;AACH,wBAAgB,gBAAgB,CAC/B,GAAG,EAAE,WAAW,EAChB,WAAW,GAAE,aAAa,GAAG,MAAgB,QAe7C"}
