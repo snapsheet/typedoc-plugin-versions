@@ -3,6 +3,9 @@
 	"version": "0.2.3",
 	"description": "It keeps track of your document builds and provides a select menu for versions",
 	"main": "src/index",
+  "files": [
+    "dist/**/*"
+  ],
 	"scripts": {
 		"test": "prettier -c . && nyc mocha",
 		"build": "npx tsc && node ./build.js",
