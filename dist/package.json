@@ -9,6 +9,7 @@
 		"docs": "typedoc",
 		"docs:build": "tsc && typedoc"
 	},
+	"files": ["*"],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/citkane/typedoc-plugin-versions.git"
