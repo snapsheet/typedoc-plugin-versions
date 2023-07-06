@@ -57,7 +57,7 @@
 		"typescript": "^4.7.4"
 	},
 	"peerDependencies": {
-		"typedoc": "^0.23"
+		"typedoc": "^0.24.8"
 	},
 	"mocha": {
 		"extension": [
