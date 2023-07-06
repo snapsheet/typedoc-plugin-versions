@@ -77,7 +77,10 @@
 			".tsx"
 		],
 		"include": [
-			"src/**/*.ts"
+			"src/**/*.ts",
+			"src/**/*.js",
+			"src/**/*.map",
+			"dist/**/*.tsbuildinfo"
 		],
 		"reporter": [
 			"clover",
