@@ -9,7 +9,6 @@
 		"docs": "typedoc",
 		"docs:build": "tsc && typedoc"
 	},
-	"files": ["*"],
 	"repository": {
 		"type": "git",
 		"url": "git+https://github.com/citkane/typedoc-plugin-versions.git"
@@ -79,9 +78,7 @@
 		],
 		"include": [
 			"src/**/*.ts",
-			"src/**/*.js",
-			"src/**/*.map",
-			"dist/**/*.tsbuildinfo"
+			"dist/**/*"
 		],
 		"reporter": [
 			"clover",
